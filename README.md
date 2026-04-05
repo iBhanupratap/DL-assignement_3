@@ -125,11 +125,13 @@ Two models used:
 
 ### Prediction Output
 
-![Segmentation Output](segnet_predictions.png)
+![Segmentation Output](<img width="573" height="497" alt="image" src="https://github.com/user-attachments/assets/bbeb9714-9d2c-4be2-b50f-42e0ceafe906" />
+.)
 
 ### Training Curves
 
-![Training Curve](training_curves.png)
+![Training Curve](<img width="1087" height="409" alt="image" src="https://github.com/user-attachments/assets/10d07b7e-ca09-40f0-94fb-3574cb5dac8c" />
+)
 
 ---
 
