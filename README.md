@@ -130,8 +130,7 @@ Two models used:
 
 ### Training Curves
 
-![Training Curve](<img width="1087" height="409" alt="image" src="https://github.com/user-attachments/assets/10d07b7e-ca09-40f0-94fb-3574cb5dac8c" />
-)
+![Training Curve](<img width="1087" height="409" alt="image" src="https://github.com/user-attachments/assets/10d07b7e-ca09-40f0-94fb-3574cb5dac8c" />)
 
 ---
 
